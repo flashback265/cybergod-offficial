@@ -51,8 +51,7 @@ header nav ul li a {
 }
 
 .hero {
-    background: #4caf50;
-    background-image: linear-gradient(blue,light-blue);
+    background: #770cff;
     color: white;
     text-align: center;
     padding: 50px 0;
