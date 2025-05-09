@@ -58,6 +58,7 @@ header nav ul li a {
 
 .hero h1 {
     font-size: 3rem;
+    text-shadow: 2px 2px red;
 }
 
 .services, .about, .contact {
