@@ -39,8 +39,10 @@ header nav ul li a {
     font-weight: bold;
 }
 .logo {
-    background: #33f3ff;
-    color: red;
+    background: linear-gradient(to right, #f32170, 
+                    #ff6b08, #cf23cf, #eedd44); 
+            -webkit-text-fill-color: transparent; 
+            -webkit-background-clip: text; 
     text-align: center;
     borders: 2px hidden ;
     border-color: blue;
