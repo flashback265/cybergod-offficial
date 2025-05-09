@@ -66,11 +66,15 @@ header nav ul li a {
     padding: 20px;
     text-align: center;
     
+    
 }
 
 .services h2, .about h2, .contact h2 {
     font-size: 2rem;
-    margin-bottom: 20px;
+    margin-bottom: 20px; 
+     background: linear-gradient(to right, #f32170, #ff6b08,#cf23cf, #eedd44);
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
 }
 
 .service-item {
