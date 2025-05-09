@@ -38,6 +38,12 @@ header nav ul li a {
     text-decoration: none;
     font-weight: bold;
 }
+.logo {
+    background: #33f3ff;
+    color: red;
+    text-align: center;
+    padding: 50px 0;
+}
 
 .hero {
     background: #4caf50;
