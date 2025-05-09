@@ -7,7 +7,7 @@
 body {
     font-family: "Lucida Console";
     line-height: 1.6;
-    background: #f0f0f0;
+     background-color: lightblue;
     color: #333;
 }
 
@@ -42,7 +42,8 @@ header nav ul li a {
     background: #33f3ff;
     color: red;
     text-align: center;
-    border-style: hidden;
+    borders: 2px hidden ;
+    border-color: blue;
     border-radius: 5px;
     padding: 50px 0;
 }
